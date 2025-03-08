@@ -1,4 +1,4 @@
-# DOCUMENTATION: [DOCS](https://meow-meow-coders.gitbook.io/nexium/)
+# DOCUMENTATION: [CLICK ME](https://meow-meow-coders.gitbook.io/nexium/)
 
 # What is Nexium?
 ### Nexium is a Framework for creating games/"gamemodes" much faster in the engine s&box
